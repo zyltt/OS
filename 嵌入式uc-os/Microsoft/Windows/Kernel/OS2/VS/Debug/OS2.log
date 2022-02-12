@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\zou\Desktop\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\main.c(179,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zou\Desktop\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\main.c(210,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zou\Desktop\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\main.c(236,35): warning C4018: “<”: 有符号/无符号不匹配
+  OS2.vcxproj -> C:\Users\zou\Desktop\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
